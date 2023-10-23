@@ -9,3 +9,14 @@ C:\Users\zelenyo.04\source\repos\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csp
 C:\Users\zelenyo.04\source\repos\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
 C:\Users\zelenyo.04\source\repos\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
 C:\Users\zelenyo.04\source\repos\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+C:\Users\Dell\Source\Repos\UKOLFORM2\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\Dell\Source\Repos\UKOLFORM2\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\Dell\Source\Repos\UKOLFORM2\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\Dell\Source\Repos\UKOLFORM2\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.AssemblyReference.cache
+C:\Users\Dell\Source\Repos\UKOLFORM2\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Source\Repos\UKOLFORM2\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+C:\Users\Dell\Source\Repos\UKOLFORM2\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\Dell\Source\Repos\UKOLFORM2\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\Dell\Source\Repos\UKOLFORM2\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Source\Repos\UKOLFORM2\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\Dell\Source\Repos\UKOLFORM2\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb

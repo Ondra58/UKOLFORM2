@@ -38,6 +38,10 @@
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
+            this.radioButton3 = new System.Windows.Forms.RadioButton();
+            this.radioButton4 = new System.Windows.Forms.RadioButton();
+            this.radioButton5 = new System.Windows.Forms.RadioButton();
+            this.checkBox1 = new System.Windows.Forms.CheckBox();
             ((System.ComponentModel.ISupportInitialize)(this.trackBar1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.trackBar2)).BeginInit();
             this.SuspendLayout();
@@ -70,21 +74,21 @@
             // 
             this.trackBar1.Location = new System.Drawing.Point(91, 127);
             this.trackBar1.Maximum = 1000;
-            this.trackBar1.Minimum = 10;
+            this.trackBar1.Minimum = 100;
             this.trackBar1.Name = "trackBar1";
             this.trackBar1.Size = new System.Drawing.Size(220, 45);
             this.trackBar1.TabIndex = 2;
-            this.trackBar1.Value = 10;
+            this.trackBar1.Value = 100;
             // 
             // trackBar2
             // 
             this.trackBar2.Location = new System.Drawing.Point(91, 178);
             this.trackBar2.Maximum = 1000;
-            this.trackBar2.Minimum = 10;
+            this.trackBar2.Minimum = 100;
             this.trackBar2.Name = "trackBar2";
             this.trackBar2.Size = new System.Drawing.Size(220, 45);
             this.trackBar2.TabIndex = 3;
-            this.trackBar2.Value = 10;
+            this.trackBar2.Value = 100;
             // 
             // label2
             // 
@@ -143,12 +147,56 @@
             this.label6.TabIndex = 9;
             this.label6.Text = "Velikost";
             // 
+            // radioButton3
+            // 
+            this.radioButton3.AutoSize = true;
+            this.radioButton3.Location = new System.Drawing.Point(91, 274);
+            this.radioButton3.Name = "radioButton3";
+            this.radioButton3.Size = new System.Drawing.Size(65, 17);
+            this.radioButton3.TabIndex = 12;
+            this.radioButton3.Text = "Červená";
+            this.radioButton3.UseVisualStyleBackColor = true;
+            // 
+            // radioButton4
+            // 
+            this.radioButton4.AutoSize = true;
+            this.radioButton4.Location = new System.Drawing.Point(176, 275);
+            this.radioButton4.Name = "radioButton4";
+            this.radioButton4.Size = new System.Drawing.Size(58, 17);
+            this.radioButton4.TabIndex = 13;
+            this.radioButton4.Text = "Zelená";
+            this.radioButton4.UseVisualStyleBackColor = true;
+            // 
+            // radioButton5
+            // 
+            this.radioButton5.AutoSize = true;
+            this.radioButton5.Location = new System.Drawing.Point(256, 275);
+            this.radioButton5.Name = "radioButton5";
+            this.radioButton5.Size = new System.Drawing.Size(55, 17);
+            this.radioButton5.TabIndex = 14;
+            this.radioButton5.Text = "Modrá";
+            this.radioButton5.UseVisualStyleBackColor = true;
+            // 
+            // checkBox1
+            // 
+            this.checkBox1.AutoSize = true;
+            this.checkBox1.Location = new System.Drawing.Point(239, 321);
+            this.checkBox1.Name = "checkBox1";
+            this.checkBox1.Size = new System.Drawing.Size(72, 17);
+            this.checkBox1.TabIndex = 15;
+            this.checkBox1.Text = "Měnitelná";
+            this.checkBox1.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Gold;
             this.ClientSize = new System.Drawing.Size(335, 460);
+            this.Controls.Add(this.checkBox1);
+            this.Controls.Add(this.radioButton5);
+            this.Controls.Add(this.radioButton4);
+            this.Controls.Add(this.radioButton3);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.textBox1);
@@ -180,6 +228,10 @@
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.RadioButton radioButton3;
+        private System.Windows.Forms.RadioButton radioButton4;
+        private System.Windows.Forms.RadioButton radioButton5;
+        private System.Windows.Forms.CheckBox checkBox1;
     }
 }
 
